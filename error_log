@@ -1,0 +1,174 @@
+[09-Jan-2023 14:53:41 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/apiaryhi/public_html/inc/global.php on line 2
+[09-Jan-2023 14:56:01 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/apiaryhi/public_html/inc/global.php on line 2
+[09-Jan-2023 14:57:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/apiaryhi/public_html/inc/global.php on line 2
+[09-Jan-2023 15:04:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:15:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:16:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:16:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:16:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:16:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:16:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:16:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:17:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:17:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:17:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:17:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:20:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:22:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 15:22:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 16:15:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 16:17:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 16:23:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 16:25:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 17:40:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 17:41:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 17:43:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 17:43:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 17:44:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 17:44:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home2/apiaryhi/public_html/inc/navbarindex.php:14
+Stack trace:
+#0 /home2/apiaryhi/public_html/new-employee.php(8): require_once()
+#1 {main}
+  thrown in /home2/apiaryhi/public_html/inc/navbarindex.php on line 14
+[09-Jan-2023 19:33:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/login.php:9) in /home2/apiaryhi/public_html/login.php on line 27
+[09-Jan-2023 19:39:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/dashboard.php:12) in /home2/apiaryhi/public_html/dashboard.php on line 116
+[09-Jan-2023 19:39:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/dashboard.php:12) in /home2/apiaryhi/public_html/dashboard.php on line 117
+[09-Jan-2023 19:39:51 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 19:44:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/dashboard.php:12) in /home2/apiaryhi/public_html/dashboard.php on line 116
+[09-Jan-2023 19:44:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/dashboard.php:12) in /home2/apiaryhi/public_html/dashboard.php on line 117
+[09-Jan-2023 19:44:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:02:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:06:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:07:37 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:07:57 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:09:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:10:20 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:11:16 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:16:05 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:23:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:23:21 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:23:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:23:32 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:24:09 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:25:21 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:26:23 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:29:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:29:54 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:30:35 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[09-Jan-2023 20:31:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home2/apiaryhi/public_html/dashboard.php on line 243
+[11-Jan-2023 11:43:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:43:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/apiaryhi/public_html/login.php on line 6
+[11-Jan-2023 11:43:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/inc/global.php:15) in /home2/apiaryhi/public_html/login.php on line 25
+[11-Jan-2023 11:44:02 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:44:02 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/apiaryhi/public_html/login.php on line 6
+[11-Jan-2023 11:44:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/inc/global.php:15) in /home2/apiaryhi/public_html/login.php on line 25
+[11-Jan-2023 11:47:14 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:47:14 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/apiaryhi/public_html/login.php on line 6
+[11-Jan-2023 11:47:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/inc/global.php:15) in /home2/apiaryhi/public_html/login.php on line 25
+[11-Jan-2023 11:48:28 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:49:00 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:49:32 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:50:03 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:51:38 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:52:44 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 15
+[11-Jan-2023 11:52:44 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/apiaryhi/public_html/login.php on line 6
+[11-Jan-2023 11:52:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/apiaryhi/public_html/inc/global.php:15) in /home2/apiaryhi/public_html/login.php on line 25
+[11-Jan-2023 11:54:10 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 9
+[11-Jan-2023 11:54:42 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 9
+[11-Jan-2023 11:55:39 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home2/apiaryhi/public_html/inc/global.php on line 9

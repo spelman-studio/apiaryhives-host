@@ -1,0 +1,18 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Apiary Hives",
+    "short_name": "Apiary",
+    "icon": {
+      "src": "img/favicon.ico",
+      "sizes": "253x201",
+      "type": "image/webp"
+    },
+    "scope": "https://apiaryhives.org/",
+    "id": "apiaryhives",
+    "start_url": "../index.php",
+    "display": "fullscreen",
+    "orientation": "landscape",
+    "theme_color": "#f3c359",
+    "background_color": "antiquewhite"
+  }
