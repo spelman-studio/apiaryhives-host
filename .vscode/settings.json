@@ -1,0 +1,20 @@
+{
+    "php.version": "8.1.13",
+    "files.autoSave": "afterDelay",
+    "extensions.autoUpdate": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "php.validate.executablePath": "C:\\php\\php.exe",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.enableDebugLogs": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.useWebExt": true,
+    "php.validate.enable": true,
+    "php.suggest.basic": true
+}

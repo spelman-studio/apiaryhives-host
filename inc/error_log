@@ -1,0 +1,8 @@
+[09-Jan-2023 20:48:56 America/Chicago] PHP Warning:  require_once(inc/global.php): failed to open stream: No such file or directory in /home2/apiaryhi/public_html/inc/new-report.php on line 2
+[09-Jan-2023 20:48:56 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/global.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/apiaryhi/public_html/inc/new-report.php on line 2
+[09-Jan-2023 20:49:02 America/Chicago] PHP Warning:  require_once(inc/global.php): failed to open stream: No such file or directory in /home2/apiaryhi/public_html/inc/new-report.php on line 2
+[09-Jan-2023 20:49:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/global.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/apiaryhi/public_html/inc/new-report.php on line 2
+[09-Jan-2023 20:49:04 America/Chicago] PHP Warning:  require_once(inc/global.php): failed to open stream: No such file or directory in /home2/apiaryhi/public_html/inc/new-report.php on line 2
+[09-Jan-2023 20:49:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/global.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/apiaryhi/public_html/inc/new-report.php on line 2
+[09-Jan-2023 20:49:13 America/Chicago] PHP Warning:  require_once(inc/global.php): failed to open stream: No such file or directory in /home2/apiaryhi/public_html/inc/new-report.php on line 2
+[09-Jan-2023 20:49:13 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'inc/global.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/apiaryhi/public_html/inc/new-report.php on line 2
